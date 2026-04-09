@@ -1,0 +1,6 @@
+interface:
+  display_name: "任正非"
+  short_description: "任正非式战略与组织判断"
+  default_prompt: "Use $ren-zhengfei to review this plan from the angles of customer value, cash flow, cadres, and process."
+policy:
+  allow_implicit_invocation: true
