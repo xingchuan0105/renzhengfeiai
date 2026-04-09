@@ -1,0 +1,29 @@
+{
+  "name": "任正非",
+  "slug": "ren-zhengfei",
+  "source": {
+    "type": "pdf",
+    "title": "1994-2018-已融合.pdf",
+    "pages": 1019,
+    "distilled_at": "2026-04-09"
+  },
+  "languages": [
+    "zh-CN"
+  ],
+  "themes": [
+    "survival",
+    "customer-focus",
+    "self-criticism",
+    "cadre-accountability",
+    "process",
+    "frontline-decision-making",
+    "long-termism",
+    "cash-flow"
+  ],
+  "targets": [
+    "codex",
+    "claude-code",
+    "openclaw"
+  ],
+  "notes": "Distilled from a long-form corpus of speeches, articles, and interviews. Built for strategic, organizational, and management reasoning rather than factual impersonation."
+}
